@@ -2,7 +2,7 @@ package stepdefinitions;
 
 import io.cucumber.java.en.*;
 
-public class test0001 {
+public class Test01 {
 
     @Given("sistem hazır")
     public void sistem_hazır() {
