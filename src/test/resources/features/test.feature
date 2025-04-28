@@ -3,4 +3,4 @@ Feature: Basit Test
   Scenario: Konsola yazı yazdırma testi
     Given sistem hazır
     When kullanıcı test mesajını çalıştırır
-    Then ekrana "Testss" yazısı yazdırılır
+    Then ekrana "Tests fınal" yazısı yazdırılır
