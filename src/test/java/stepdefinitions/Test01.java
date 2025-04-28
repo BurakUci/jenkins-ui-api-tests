@@ -6,7 +6,7 @@ public class Test01 {
 
     @Given("sistem hazır")
     public void sistem_hazır() {
-        System.out.println("➡ Sistem hazırrrr");
+        System.out.println("➡ Sistem hazır");
     }
 
     @When("kullanıcı test mesajını çalıştırır")
